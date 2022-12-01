@@ -16,7 +16,8 @@ may leak information and allow unwanted people access to your repositories.
 ### Key Findings
 | Owner | Findings |
 | --- | --- |
-
+| Utkarsh51 | (i) 11 out of 11 repositories are public |
+| shriomtri | (i) 1 out of 1 repository is public |
 
 See [below](#repository-public-visibility-and-access-1) for a detailed report.
 
@@ -27,7 +28,18 @@ Managing repositories visibility can be done through the following links:
 <details>
 <summary>Click to expand</summary>
 
-
+  * <https://github.com/Utkarsh51/DemoJS/settings>
+  * <https://github.com/Utkarsh51/Musical-StructureApp/settings>
+  * <https://github.com/Utkarsh51/NotifictionDemo/settings>
+  * <https://github.com/Utkarsh51/ProducerConsumer/settings>
+  * <https://github.com/Utkarsh51/Quiz-App/settings>
+  * <https://github.com/Utkarsh51/ScoreAdda/settings>
+  * <https://github.com/Utkarsh51/Tour-Guide-App/settings>
+  * <https://github.com/Utkarsh51/VoteX/settings>
+  * <https://github.com/Utkarsh51/blockchain/settings>
+  * <https://github.com/Utkarsh51/repoReports/settings>
+  * <https://github.com/Utkarsh51/upgrad-assignment-frontend1/settings>
+  * <https://github.com/shriomtri/NewsApp/settings>
 </details>
 
 ## Two Factor Authentication
@@ -123,7 +135,7 @@ GitHub Branch protection rules are detailed at the following link:
 Branch protection is managed at the repository-branch level.
 
 ### Key Findings
-(v) all branches are protected.
+(i) 12 branches lacking any protection rules.
 
 (i) no branches are protected.
 
@@ -136,7 +148,18 @@ This can be done from the following links:
 <details>
 <summary>Click to expand</summary>
 
-
+  * <https://github.com/Utkarsh51/DemoJS/settings/branches>
+  * <https://github.com/Utkarsh51/Musical-StructureApp/settings/branches>
+  * <https://github.com/Utkarsh51/NotifictionDemo/settings/branches>
+  * <https://github.com/Utkarsh51/ProducerConsumer/settings/branches>
+  * <https://github.com/Utkarsh51/Quiz-App/settings/branches>
+  * <https://github.com/Utkarsh51/ScoreAdda/settings/branches>
+  * <https://github.com/Utkarsh51/Tour-Guide-App/settings/branches>
+  * <https://github.com/Utkarsh51/VoteX/settings/branches>
+  * <https://github.com/Utkarsh51/blockchain/settings/branches>
+  * <https://github.com/Utkarsh51/repoReports/settings/branches>
+  * <https://github.com/Utkarsh51/upgrad-assignment-frontend1/settings/branches>
+  * <https://github.com/shriomtri/NewsApp/settings/branches>
 </details>
 
 ## Signed Commits
@@ -228,7 +251,20 @@ Go [back](#repository-public-visibility-and-access) to the overview report.
 <details open>
 <summary> <b>Repositories Visibility Settings (for Public Repositories)</b> </summary>
 
-No public repositories.
+| Owner | Repository | Link |
+| --- | --- | --- |
+| Utkarsh51 | DemoJS | [Settings](<https://github.com/Utkarsh51/DemoJS/settings>) |
+| Utkarsh51 | Musical-StructureApp | [Settings](<https://github.com/Utkarsh51/Musical-StructureApp/settings>) |
+| Utkarsh51 | NotifictionDemo | [Settings](<https://github.com/Utkarsh51/NotifictionDemo/settings>) |
+| Utkarsh51 | ProducerConsumer | [Settings](<https://github.com/Utkarsh51/ProducerConsumer/settings>) |
+| Utkarsh51 | Quiz-App | [Settings](<https://github.com/Utkarsh51/Quiz-App/settings>) |
+| Utkarsh51 | ScoreAdda | [Settings](<https://github.com/Utkarsh51/ScoreAdda/settings>) |
+| Utkarsh51 | Tour-Guide-App | [Settings](<https://github.com/Utkarsh51/Tour-Guide-App/settings>) |
+| Utkarsh51 | VoteX | [Settings](<https://github.com/Utkarsh51/VoteX/settings>) |
+| Utkarsh51 | blockchain | [Settings](<https://github.com/Utkarsh51/blockchain/settings>) |
+| Utkarsh51 | repoReports | [Settings](<https://github.com/Utkarsh51/repoReports/settings>) |
+| Utkarsh51 | upgrad-assignment-frontend1 | [Settings](<https://github.com/Utkarsh51/upgrad-assignment-frontend1/settings>) |
+| shriomtri | NewsApp | [Settings](<https://github.com/shriomtri/NewsApp/settings>) |
 </details>
 
 ## Two Factor Authentication
@@ -318,7 +354,20 @@ None
 <details open>
 <summary> <b>Unprotected Branches</b> </summary>
 
-None
+| Branch | Link |
+| --- | --- |
+| Utkarsh51/DemoJS/branches/master | [Settings](<https://github.com/Utkarsh51/DemoJS/settings/branches>) |
+| Utkarsh51/Musical-StructureApp/branches/master | [Settings](<https://github.com/Utkarsh51/Musical-StructureApp/settings/branches>) |
+| Utkarsh51/NotifictionDemo/branches/master | [Settings](<https://github.com/Utkarsh51/NotifictionDemo/settings/branches>) |
+| Utkarsh51/ProducerConsumer/branches/master | [Settings](<https://github.com/Utkarsh51/ProducerConsumer/settings/branches>) |
+| Utkarsh51/Quiz-App/branches/master | [Settings](<https://github.com/Utkarsh51/Quiz-App/settings/branches>) |
+| Utkarsh51/ScoreAdda/branches/master | [Settings](<https://github.com/Utkarsh51/ScoreAdda/settings/branches>) |
+| Utkarsh51/Tour-Guide-App/branches/master | [Settings](<https://github.com/Utkarsh51/Tour-Guide-App/settings/branches>) |
+| Utkarsh51/VoteX/branches/master | [Settings](<https://github.com/Utkarsh51/VoteX/settings/branches>) |
+| Utkarsh51/blockchain/branches/master | [Settings](<https://github.com/Utkarsh51/blockchain/settings/branches>) |
+| Utkarsh51/repoReports/branches/master | [Settings](<https://github.com/Utkarsh51/repoReports/settings/branches>) |
+| Utkarsh51/upgrad-assignment-frontend1/branches/master | [Settings](<https://github.com/Utkarsh51/upgrad-assignment-frontend1/settings/branches>) |
+| shriomtri/NewsApp/branches/master | [Settings](<https://github.com/shriomtri/NewsApp/settings/branches>) |
 </details>
 
 ## Deploy Keys
