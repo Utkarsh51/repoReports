@@ -1,0 +1,112 @@
+{
+  "result": [
+    {
+      "expressions": [
+        {
+          "value": {
+            "errors": [
+              {
+                "admins_processing_errors": {}
+              },
+              {
+                "branches_processing_errors": {}
+              },
+              {
+                "commits_processing_errors": {}
+              },
+              {
+                "deploy_keys_processing_errors": {
+                  "shriomtri/NewsApp": {
+                    "processing_error": "This accout is not allowed to get deploy keys for this repository"
+                  }
+                }
+              },
+              {
+                "hooks_processing_errors": {
+                  "shriomtri/NewsApp": {
+                    "processing_error": "This account is not allowed to get hooks configuration for this repository"
+                  }
+                }
+              },
+              {
+                "init_processing_errors": {}
+              },
+              {
+                "repos_processing_errors": {}
+              },
+              {
+                "teams_processing_errors": {}
+              },
+              {
+                "tfa_processing_errors": {}
+              }
+            ],
+            "state": [
+              {
+                "admins": {
+                  "members": {}
+                }
+              },
+              {
+                "branches": {
+                  "protection_diff": {},
+                  "unprotected_branches": [
+                    "Utkarsh51/DemoJS/branches/master",
+                    "Utkarsh51/Musical-StructureApp/branches/master",
+                    "Utkarsh51/NotifictionDemo/branches/master",
+                    "Utkarsh51/ProducerConsumer/branches/master",
+                    "Utkarsh51/Quiz-App/branches/master",
+                    "Utkarsh51/ScoreAdda/branches/master",
+                    "Utkarsh51/Tour-Guide-App/branches/master",
+                    "Utkarsh51/VoteX/branches/master",
+                    "Utkarsh51/blockchain/branches/master",
+                    "Utkarsh51/repoReports/branches/master",
+                    "Utkarsh51/upgrad-assignment-frontend1/branches/master",
+                    "shriomtri/NewsApp/branches/master"
+                  ]
+                }
+              },
+              {
+                "commits": {
+                  "history": {},
+                  "unverified": {}
+                }
+              },
+              {
+                "deploy_keys": {
+                  "expired": {},
+                  "keys": {}
+                }
+              },
+              {
+                "ssh_keys": {
+                  "expired": {},
+                  "keys": []
+                }
+              },
+              {
+                "teams": {
+                  "changed_permissions": {},
+                  "members": {},
+                  "permissions": {}
+                }
+              },
+              {
+                "tfa": {
+                  "disabled_members": {},
+                  "unenforced_orgs": []
+                }
+              }
+            ]
+          },
+          "text": "data.gh.eval",
+          "location": {
+            "row": 1,
+            "col": 1
+          }
+        }
+      ]
+    }
+  ]
+}
+
